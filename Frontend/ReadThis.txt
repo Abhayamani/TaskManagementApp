@@ -1,0 +1,14 @@
+1. copy repo link
+2. go to vscode
+3. ctrl+shift+P
+4. Type clone
+5. Click on git clone
+6. paste repo link
+
+Now installations,
+
+1. npm install
+2. npm install @mui/material
+If you get error:
+i. npm config set legacy-peer-deps true
+ii.npm audit fix or npm audit fix --force
